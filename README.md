@@ -1,4 +1,4 @@
-datasciencecoursera
+All my codes are in this folder for now
 ===================
 
-J. H
+Last added: timeValue.js
